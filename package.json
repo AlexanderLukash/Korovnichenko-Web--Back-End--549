@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-course",
+  "version": "1.0.0",
+  "description": "Simple Node.js HTTP server with home, about and contact pages",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Korovnichenko Oleksandr",
+  "license": "ISC"
+}
